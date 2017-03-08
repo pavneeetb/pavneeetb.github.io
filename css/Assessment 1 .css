@@ -1,0 +1,15 @@
+h1 { 
+    font-size: 60px;
+    color: grey; /* use color values specified in photoshop comp */
+}
+p{ 
+    font-size: 30px; /* use font size specified in photoshop comp */ 
+    color: grey; /* use color values specified in photoshop comp */
+    line-height: 2;
+}
+ul{ font-size: 30px; /* use font size specified in photoshop comp */ 
+    color: grey; /* use color values specified in photoshop comp */
+    line-height: 2;}
+img { 
+    max-width: 100%;
+} 

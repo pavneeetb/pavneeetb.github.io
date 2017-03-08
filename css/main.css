@@ -1,0 +1,9 @@
+h1{ font-size: 60px;
+    color: grey;}
+p{ font-size: 30px;
+   color: grey;
+   line-height: 2;}
+ul{ font-size: 30px;
+    color: grey;
+    line-height: 2;}
+img{max-width: 100%;}
