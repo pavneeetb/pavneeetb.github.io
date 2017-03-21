@@ -1,0 +1,32 @@
+body{
+  background-color:pink;
+}
+h1, h3 {
+  font-size: 50px;
+  color:purple;
+  background-color: teal;
+  width:80%;
+  margin:auto;
+  text-align:center;
+  
+}
+.profilePic {
+margin:auto;
+    display: block;
+}
+
+p{ 
+  color:teal;
+  width:80%;
+  margin:auto;
+  text-align:center;
+  font-size: 25px
+}
+
+ul, li{
+  color: teal;
+  width:80%;
+  margin: auto;
+  text-align:center;
+  font-size: 25px;
+}
